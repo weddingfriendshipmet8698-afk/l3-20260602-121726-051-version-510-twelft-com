@@ -1,0 +1,21 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_coverage": {
+    "domestic-hot": 200,
+    "world-selection": 200,
+    "quality-cinema": 200,
+    "drama-family": 200,
+    "action-crime": 200,
+    "romance-youth": 200,
+    "suspense-thriller": 200,
+    "comedy-life": 200,
+    "fantasy-scifi": 200,
+    "animation-variety": 200
+  },
+  "video_urls_extracted": 150,
+  "unique_video_urls": 20,
+  "html_pages_total": 2014,
+  "site_name": "高清国产视频"
+}
